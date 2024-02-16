@@ -1,4 +1,4 @@
-# Yolov7-Close-People-CounterV1.2
+# Yolov7
 
 # Track Counter:
 
