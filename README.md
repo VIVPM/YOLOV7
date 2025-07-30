@@ -74,12 +74,3 @@ https://user-images.githubusercontent.com/98788987/203449682-0fe883a2-d7eb-4398-
 Saving people who break the social distance by increasing the resolution from real-video: (Real-ESRGAN):
 
 https://user-images.githubusercontent.com/98788987/218627242-256afe17-e221-432d-9f9f-26ee6fd8c2f0.mp4
-
-
-# References
-- https://github.com/WongKinYiu/yolov7
-- https://github.com/xinntao/Real-ESRGAN
-
-
-
-
